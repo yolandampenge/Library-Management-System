@@ -27,13 +27,13 @@
 	</table>
 	
 	<table class="staff" >
-	<thead><tr><th colspan="3"  style="text-align: center;"><h3>LIBRARY STAFF</h3></th></tr></thead>
+	<thead><tr><th colspan="3"  style="text-align: center;"><h3>ADMIN STAFF</h3></th></tr></thead>
 	<tbody>
 	<tr>
 	<td colspan="3"></td>
 	</tr>
 	<tr>
-	<td>Mr. Vinit Shahdeo<br />Librarian </td>
+	<td>Mr. Vinit Shahdeo<br />Clerk / Admin </td>
 	</tr>
 	
 	</tbody>
@@ -45,4 +45,4 @@
 		</div>
     </div>
 <?php include('footer.php') ?>
-<!-- Made by Vinit Shahdeo -->
+<!-- Made by Zama Mpenge -->
